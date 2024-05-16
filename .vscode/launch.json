@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "rec_array_List",
+            "request": "launch",
+            "mainClass": "rec_array_List",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "rec_linear",
+            "request": "launch",
+            "mainClass": "rec_linear",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "rec_array",
+            "request": "launch",
+            "mainClass": "rec_array",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "count_zero",
+            "request": "launch",
+            "mainClass": "count_zero",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "reverse_no",
+            "request": "launch",
+            "mainClass": "reverse_no",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "prod_rec",
+            "request": "launch",
+            "mainClass": "prod_rec",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_digit",
+            "request": "launch",
+            "mainClass": "sum_of_digit",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "easy_rec",
+            "request": "launch",
+            "mainClass": "easy_rec",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "fac",
+            "request": "launch",
+            "mainClass": "fac",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "newton_raphon_sqrt",
+            "request": "launch",
+            "mainClass": "newton_raphon_sqrt",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "square_root",
+            "request": "launch",
+            "mainClass": "square_root",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "seive",
+            "request": "launch",
+            "mainClass": "seive",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "prime_no",
+            "request": "launch",
+            "mainClass": "prime_no",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "binary_search_recursion",
+            "request": "launch",
+            "mainClass": "binary_search_recursion",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "patterns",
+            "request": "launch",
+            "mainClass": "patterns",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "cyclic_sort",
+            "request": "launch",
+            "mainClass": "cyclic_sort",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CRUDApplication",
+            "request": "launch",
+            "mainClass": "CRUDApplication",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "binary_search",
+            "request": "launch",
+            "mainClass": "binary_search",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "celling_of_number",
+            "request": "launch",
+            "mainClass": "celling_of_number",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "even_digits",
+            "request": "launch",
+            "mainClass": "even_digits",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "flour_of_number",
+            "request": "launch",
+            "mainClass": "flour_of_number",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "infinite_array_search",
+            "request": "launch",
+            "mainClass": "infinite_array_search",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "insertion_sort",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "lin",
+            "request": "launch",
+            "mainClass": "lin",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "min_element",
+            "request": "launch",
+            "mainClass": "min_element",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "order_AgnosticBS",
+            "request": "launch",
+            "mainClass": "order_AgnosticBS",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "searchInString",
+            "request": "launch",
+            "mainClass": "searchInString",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "selection_sort",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "DSA_c1467e45"
+        },
+        {
+            "type": "java",
+            "name": "two_d_search",
+            "request": "launch",
+            "mainClass": "two_d_search",
+            "projectName": "DSA_c1467e45"
+        }
+    ]
+}
